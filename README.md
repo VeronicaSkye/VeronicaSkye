@@ -1,5 +1,5 @@
 <p align="center">
-  👋 Oi, eu sou a <strong>Verônica</strong>!
+  👋 Oi, eu sou a <strong>Veronica</strong>!
 </p>
 
 <p align="center">
